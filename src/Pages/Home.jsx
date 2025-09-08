@@ -13,7 +13,7 @@ const Home = () => {
 
   const API_KEY =
     "sd_a4bb48c811685b2bc4911cfc5434188e"
-  const GEMINI_API_KEY = "AIzaSyA6j1QQ77ETh5v7ImpSCWT6ZCWVDlGnOSg"
+  const GEMINI_API_KEY = "AIzaSyDzp0ZINuL2jxdj4EjnYeD5ckvEvwE6_Tw"
 
   const getYouTubeVideoId = (url) => {
     const regexes = [
@@ -265,3 +265,4 @@ const Home = () => {
 }
 
 export default Home
+
