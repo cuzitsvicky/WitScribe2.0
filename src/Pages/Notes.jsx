@@ -246,7 +246,7 @@ function AccordionQuestion({ question }) {
 
     try {
       // Using a more reliable approach to access the API key
-      let apiKey = "AIzaSyA6j1QQ77ETh5v7ImpSCWT6ZCWVDlGnOSg"
+      let apiKey = "AIzaSyDzp0ZINuL2jxdj4EjnYeD5ckvEvwE6_Tw"
 
       // Try to get the API key from environment variables
       try {
@@ -967,3 +967,4 @@ const Notes = () => {
 }
 
 export default Notes
+
