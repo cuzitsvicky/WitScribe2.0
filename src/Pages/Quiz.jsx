@@ -5,7 +5,7 @@ import { useNavigate } from "react-router-dom"
 import quizIllustration from "../assets/quiz-illustration.webp"
 import Navbar from "../Components/Navbar"
 
-const GEMINI_API_KEY = "AIzaSyA6j1QQ77ETh5v7ImpSCWT6ZCWVDlGnOSg"
+const GEMINI_API_KEY = "AIzaSyDzp0ZINuL2jxdj4EjnYeD5ckvEvwE6_Tw"
 
 export default function Quiz1() {
   const [quizTopic, setQuizTopic] = useState("")
@@ -187,3 +187,4 @@ Respond in JSON format like:
     </>
   )
 }
+
